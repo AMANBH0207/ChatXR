@@ -1,0 +1,42 @@
+.Nav{
+    width:100%;
+    background-color: black;
+    color:rgb(219, 235, 240);
+    height:60px;
+    
+}
+
+.AppNm{
+    height:50px;
+}
+
+
+.Imag{
+    margin-top: 8px;
+    margin-left: 10px;
+    height:50px;
+}
+
+
+.imgNav{
+    position: absolute;
+    background-color: black;
+    height: 40px;
+    border-radius: 3px;
+    
+}
+
+.lnk{
+    background-color: black;
+    width: 100%;
+    position:absolute;
+    margin-left: 75%;
+}
+
+@media screen and (max-width : 500px) {
+
+
+
+
+}
+
