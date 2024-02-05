@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ChatXR/static/css/main.2a7cd99b.css",
-    "main.js": "/ChatXR/static/js/main.1204df94.js",
+    "main.js": "/ChatXR/static/js/main.d1a14612.js",
     "static/js/787.6f726199.chunk.js": "/ChatXR/static/js/787.6f726199.chunk.js",
     "static/media/AppBg.png": "/ChatXR/static/media/AppBg.1aed3a6155324d7eae4a.png",
     "static/media/LoginLogo.mp4": "/ChatXR/static/media/LoginLogo.81e0a87924d06cafad7a.mp4",
@@ -11,11 +11,11 @@
     "static/media/ChatXR.png": "/ChatXR/static/media/ChatXR.e75f5f3529549ddd3048.png",
     "index.html": "/ChatXR/index.html",
     "main.2a7cd99b.css.map": "/ChatXR/static/css/main.2a7cd99b.css.map",
-    "main.1204df94.js.map": "/ChatXR/static/js/main.1204df94.js.map",
+    "main.d1a14612.js.map": "/ChatXR/static/js/main.d1a14612.js.map",
     "787.6f726199.chunk.js.map": "/ChatXR/static/js/787.6f726199.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2a7cd99b.css",
-    "static/js/main.1204df94.js"
+    "static/js/main.d1a14612.js"
   ]
 }
