@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ChatXR/static/css/main.dc9b8ef2.css",
+    "main.js": "/ChatXR/static/js/main.ba88f9aa.js",
+    "static/js/787.6f726199.chunk.js": "/ChatXR/static/js/787.6f726199.chunk.js",
+    "static/media/AppBg.png": "/ChatXR/static/media/AppBg.1aed3a6155324d7eae4a.png",
+    "static/media/LoginLogo.mp4": "/ChatXR/static/media/LoginLogo.81e0a87924d06cafad7a.mp4",
+    "static/media/Sign_Up.png": "/ChatXR/static/media/Sign_Up.5cd013c37f31e5e567af.png",
+    "static/media/Login_Button.png": "/ChatXR/static/media/Login_Button.dc6ad7442e2f0f0ae4aa.png",
+    "static/media/send_file.png": "/ChatXR/static/media/send_file.96dac666aa069eebc9df.png",
+    "static/media/ChatXR.png": "/ChatXR/static/media/ChatXR.e75f5f3529549ddd3048.png",
+    "index.html": "/ChatXR/index.html",
+    "main.dc9b8ef2.css.map": "/ChatXR/static/css/main.dc9b8ef2.css.map",
+    "main.ba88f9aa.js.map": "/ChatXR/static/js/main.ba88f9aa.js.map",
+    "787.6f726199.chunk.js.map": "/ChatXR/static/js/787.6f726199.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc9b8ef2.css",
+    "static/js/main.ba88f9aa.js"
+  ]
+}
